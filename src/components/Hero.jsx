@@ -24,7 +24,7 @@ const Hero = () => {
             animate = "visible"
               className="px-6 pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl"
             >
-              Kevin Rush
+              Priyanshu Gupta
             </motion.h1>
             <motion.span
              variants={container(0.5)}
